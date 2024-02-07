@@ -20,6 +20,12 @@
 > [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--21014--3__18-fcb520?style=flat-square&logo=doi)](https://doi.org/10.1007/978-3-031-21014-3_18) [![arXiv](https://img.shields.io/badge/arXiv-2206.00771-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2206.00771) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/freshman97/LinTransUNet)<br>
 > <img src="asset/LinTransUNet.svg" width="600">
 
+> **MGDC-UNet: Multi-group Deformable Convolution for Medical Image Segmentation**<br>
+> Anonymous<br>
+> _**Preprint**_<br>
+> [![OpenReview](https://img.shields.io/badge/OpenReview-8c1b13?style=flat-square)](https://openreview.net/forum?id=Naiy1jf8UA)<br>
+> <img src="asset/MGDC-UNet.svg" width="700">
+
 
 > **SegVol: Universal and Interactive Volumetric Medical Image Segmentation**<br>
 > Yuxin Du, Fan Bai, Tiejun Huang, Bo Zhao<br>
