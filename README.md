@@ -2,10 +2,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
-> **Title**<br>
-> Author<br>
-> [![OpenReview](https://img.shields.io/badge/OpenReview-8c1b13?style=flat-square)](https://openreview.net/forum?id=NF5uhYkI9C)<br>
-> _Preprint_
-
+> **U-Net v2: Rethinking the Skip Connections of U-Net for Medical Image Segmentation** <br>
+> Yaopeng Peng, Milan Sonka, Danny Z. Chen <br>
+> _Preprint_ <br>
+> [![arXiv](https://img.shields.io/badge/arXiv-2311.17791-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2311.17791) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/yaoppeng/U-Net_v2)
 
 ## Updating
