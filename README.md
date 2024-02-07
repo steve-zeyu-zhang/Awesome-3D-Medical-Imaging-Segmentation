@@ -12,7 +12,7 @@
 > Jeya Maria Jose, Vishwanath Sindagi, Ilker Hacihaliloglu, Vishal M. Patel<br>
 > _**TMI 2021**_<br>
 > [![DOI](https://img.shields.io/badge/DOI-10.1109%2FTMI.2021.3130469-fcb520?style=flat-square&logo=doi)](https://doi.org/10.1109/TMI.2021.3130469) [![arXiv](https://img.shields.io/badge/arXiv-2010.01663-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2010.01663)<br>
-> <img src="asset/KiU-Net.svg" width="600">
+> <img src="asset/KiU-Net_2.svg" width="600">
 
 > **SegVol: Universal and Interactive Volumetric Medical Image Segmentation**<br>
 > Yuxin Du, Fan Bai, Tiejun Huang, Bo Zhao<br>
