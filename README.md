@@ -24,7 +24,7 @@
 > Anonymous<br>
 > _**Preprint**_<br>
 > [![OpenReview](https://img.shields.io/badge/OpenReview-8c1b13?style=flat-square)](https://openreview.net/forum?id=Naiy1jf8UA)<br>
-> <img src="asset/MGDC-UNet.svg" width="700">
+> <img src="asset/MGDC-UNet.svg" width="600">
 
 
 > **SegVol: Universal and Interactive Volumetric Medical Image Segmentation**<br>
