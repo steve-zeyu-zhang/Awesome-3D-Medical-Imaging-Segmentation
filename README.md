@@ -2,6 +2,13 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
+> **SegVol: Universal and Interactive Volumetric Medical Image Segmentation**<br>
+> Yuxin Du, Fan Bai, Tiejun Huang, Bo Zhao<br>
+> _**Preprint**_<br>
+> [![arXiv](https://img.shields.io/badge/arXiv-2311.13385-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2311.13385) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/baai-dcai/segvol)<br>
+> <img src="asset/SegVol.svg" width="700">
+
+
 > **U-Net v2: Rethinking the Skip Connections of U-Net for Medical Image Segmentation**<br>
 > Yaopeng Peng, Milan Sonka, Danny Z. Chen<br>
 > _**Preprint**_<br>
