@@ -46,7 +46,7 @@
 > Wentao Liu, Tong Tian, Weijin Xu, Huihua Yang, Xipeng Pan, Songlin Yan, Lemeng Wang<br>
 > _**MICCAI 2022**_<br>
 > [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--16443--9__23-fcb520?style=flat-square&logo=doi)](https://doi.org/10.1007/978-3-031-16443-9_23) [![arXiv](https://img.shields.io/badge/arXiv-2203.04568-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2203.04568) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/lseventeen/phtrans)<br>
-> <img src="asset/PHTrans.svg" width="700">
+> <img src="asset/PHTrans.svg" width="650">
 
 > **KiU-Net: Overcomplete Convolutional Architectures for Biomedical Image and Volumetric Segmentation**<br>
 > Jeya Maria Jose, Vishwanath Sindagi, Ilker Hacihaliloglu, Vishal M. Patel<br>
