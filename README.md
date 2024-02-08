@@ -4,7 +4,7 @@
 
 **👉 Please consider giving this repository a star ⭐ if you find it helpful!**
 
-## The repo is currently updating, you can follow it for the latest updates!
+## [02/08/2024] The repo is currently updating, you can follow it for the latest updates!
 
 > **U-Net v2: Rethinking the Skip Connections of U-Net for Medical Image Segmentation**<br>
 > Yaopeng Peng, Milan Sonka, Danny Z. Chen<br>
