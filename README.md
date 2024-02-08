@@ -1,6 +1,6 @@
 # Awesome-3D-Medical-Imaging-Segmentation
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/steve-zeyu-zhang/Awesome-3D-Medical-Imaging-Segmentation)
 
 **👉 Please consider giving this repository a star ⭐ if you find it helpful!**
 
