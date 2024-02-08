@@ -24,7 +24,7 @@
 > Anonymous<br>
 > _**Preprint**_<br>
 > [![OpenReview](https://img.shields.io/badge/OpenReview-8c1b13?style=flat-square)](https://openreview.net/forum?id=qmN9v3O69J)<br>
-> <img src="asset/DeformUX-Net.svg" width="600">
+> <img src="asset/DeformUX-Net.svg" width="700">
 
 > **MGDC-UNet: Multi-group Deformable Convolution for Medical Image Segmentation**<br>
 > Anonymous<br>
