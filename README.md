@@ -28,6 +28,12 @@
 > [![OpenReview](https://img.shields.io/badge/OpenReview-8c1b13?style=flat-square)](https://openreview.net/forum?id=qmN9v3O69J)<br>
 > <img src="asset/DeformUX-Net.svg" width="700">
 
+> **SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation**<br>
+> Yiqing Wang, Zihan Li, Jieru Mei, Zihao Wei, Li Liu, Chen Wang, Shengtian Sang, Alan Yuille, Cihang Xie, Yuyin Zhou<br>
+> _**MICCAI 2023**_<br>
+> [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--43898--1__47-fcb520?style=flat-square&logo=doi)](https://doi.org/10.1007/978-3-031-43898-1_47) [![arXiv](https://img.shields.io/badge/arXiv-2307.12591-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2307.12591) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/UCSC-VLAA/SwinMM/)<br>
+> <img src="asset/SwinMM.svg" width="600">
+
 > **Dynamic Linear Transformer for 3D Biomedical Image Segmentation**<br>
 > Zheyuan Zhang, Ulas Bagci<br>
 > _**MLMI 2022**_<br>
