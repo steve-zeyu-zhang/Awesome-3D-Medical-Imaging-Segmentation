@@ -63,7 +63,7 @@
 > Hao Li, Yang Nan, Javier Del Ser, Guang Yang<br>
 > _**Cognitive Computation 2023**_<br>
 > [![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs12559--023--10126--7-fcb520?style=flat-square&logo=doi)](https://doi.org/10.1007/s12559-023-10126-7) [![arXiv](https://img.shields.io/badge/arXiv-2207.11225-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2207.11225)<br>
-> <img src="asset/LKA.svg" width="600">
+> <img src="asset/LKA.svg" width="350">
 
 > **Dynamic Linear Transformer for 3D Biomedical Image Segmentation**<br>
 > Zheyuan Zhang, Ulas Bagci<br>
