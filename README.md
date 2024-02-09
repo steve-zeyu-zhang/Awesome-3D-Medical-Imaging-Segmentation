@@ -22,7 +22,7 @@
 > Samra Irshad, Douglas P.S. Gomes, Seong Tae Kim<br>
 > _**IEEE Access 2023**_<br>
 > [![DOI](https://img.shields.io/badge/DOI-10.1109%2FACCESS.2023.3264582-fcb520?style=flat-square&logo=doi)](https://doi.org/10.1109/ACCESS.2023.3264582) [![arXiv](https://img.shields.io/badge/arXiv-2210.04285-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2210.04285) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/samra-irshad/3d-boundary-constrained-networks/)<br>
-> <img src="asset/access.svg" width="700">
+> <img src="asset/access.svg" width="1000">
 
 > **MGDC-UNet: Multi-group Deformable Convolution for Medical Image Segmentation**<br>
 > Anonymous<br>
