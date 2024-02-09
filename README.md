@@ -60,6 +60,12 @@
 > [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--16443--9__23-fcb520?style=flat-square&logo=doi)](https://doi.org/10.1007/978-3-031-16443-9_23) [![arXiv](https://img.shields.io/badge/arXiv-2203.04568-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2203.04568) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/lseventeen/phtrans)<br>
 > <img src="asset/PHTrans.svg" width="650">
 
+> **CAN3D: Fast 3D Medical Image Segmentation via Compact Context Aggregation**<br>
+> Wei Dai, Boyeong Woo, Siyu Liu, Matthew Marques, Craig B. Engstrom, Peter B. Greer, Stuart Crozier, Jason A. Dowling, Shekhar S. Chandra<br>
+> _**MIA 2022**_<br>
+> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.media.2022.102562-fcb520?style=flat-square&logo=doi)](https://doi.org/10.1016/j.media.2022.102562) [![arXiv](https://img.shields.io/badge/arXiv-2109.05443-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2109.05443)<br>
+> <img src="asset/CAN3D.svg" width="700">
+
 > **KiU-Net: Overcomplete Convolutional Architectures for Biomedical Image and Volumetric Segmentation**<br>
 > Jeya Maria Jose, Vishwanath Sindagi, Ilker Hacihaliloglu, Vishal M. Patel<br>
 > _**TMI 2021**_<br>
