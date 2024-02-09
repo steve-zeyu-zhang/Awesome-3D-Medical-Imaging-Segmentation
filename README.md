@@ -23,12 +23,6 @@
 > [![arXiv](https://img.shields.io/badge/arXiv-2311.13385-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2311.13385) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/baai-dcai/segvol)<br>
 > <img src="asset/SegVol.svg" width="700">
 
-> **Improved Abdominal Multi-Organ Segmentation via 3D Boundary-Constrained Deep Neural Networks**<br>
-> Samra Irshad, Douglas P.S. Gomes, Seong Tae Kim<br>
-> _**IEEE Access 2023**_<br>
-> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FACCESS.2023.3264582-fcb520?style=flat-square&logo=doi)](https://doi.org/10.1109/ACCESS.2023.3264582) [![arXiv](https://img.shields.io/badge/arXiv-2210.04285-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2210.04285) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/samra-irshad/3d-boundary-constrained-networks/)<br>
-> <img src="asset/access.svg" width="1000">
-
 > **MGDC-UNet: Multi-group Deformable Convolution for Medical Image Segmentation**<br>
 > Anonymous<br>
 > _**Preprint**_<br>
@@ -52,6 +46,12 @@
 > _**MIDL 2023**_<br>
 > [![Paper](https://img.shields.io/badge/Paper-MIDL%202023-8A2BE2?style=flat-square&logoColor=fcb520)](https://2023.midl.io/papers/p165) [![arXiv](https://img.shields.io/badge/arXiv-2303.16892-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2303.16892) [![OpenReview](https://img.shields.io/badge/OpenReview-8c1b13?style=flat-square)](https://openreview.net/forum?id=u0MHV19E2n) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/SLDGroup/MERIT/)<br>
 > <img src="asset/MERIT.svg" width="600">
+
+> **Improved Abdominal Multi-Organ Segmentation via 3D Boundary-Constrained Deep Neural Networks**<br>
+> Samra Irshad, Douglas P.S. Gomes, Seong Tae Kim<br>
+> _**IEEE Access 2023**_<br>
+> [![DOI](https://img.shields.io/badge/DOI-10.1109%2FACCESS.2023.3264582-fcb520?style=flat-square&logo=doi)](https://doi.org/10.1109/ACCESS.2023.3264582) [![arXiv](https://img.shields.io/badge/arXiv-2210.04285-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2210.04285) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/samra-irshad/3d-boundary-constrained-networks/)<br>
+> <img src="asset/access.svg" width="1000">
 
 > **Dynamic Linear Transformer for 3D Biomedical Image Segmentation**<br>
 > Zheyuan Zhang, Ulas Bagci<br>
