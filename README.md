@@ -35,6 +35,12 @@
 > [![OpenReview](https://img.shields.io/badge/OpenReview-8c1b13?style=flat-square)](https://openreview.net/forum?id=qmN9v3O69J)<br>
 > <img src="asset/DeformUX-Net.svg" width="700">
 
+> **Beyond Self-Attention: Deformable Large Kernel Attention for Medical Image Segmentation**<br>
+> Reza Azad, Leon Niggemeier, Michael Huttemann, Amirhossein Kazerouni, Ehsan Khodapanah Aghdam, Yury Velichko, Ulas Bagci, Dorit Merhof<br>
+> _**WACV 2024**_<br>
+> [![Paper](https://img.shields.io/badge/Paper-WACV%202024-8A2BE2?style=flat-square&logoColor=fcb520)](https://openaccess.thecvf.com/content/WACV2024/papers/Azad_Beyond_Self-Attention_Deformable_Large_Kernel_Attention_for_Medical_Image_Segmentation_WACV_2024_paper.pdf) [![arXiv](https://img.shields.io/badge/arXiv-2309.00121-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2309.00121) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/xmindflow/deformableLKA/)<br>
+> <img src="asset/D-LKA.svg" width="600">
+
 > **SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation**<br>
 > Yiqing Wang, Zihan Li, Jieru Mei, Zihao Wei, Li Liu, Chen Wang, Shengtian Sang, Alan Yuille, Cihang Xie, Yuyin Zhou<br>
 > _**MICCAI 2023**_<br>
@@ -52,6 +58,12 @@
 > _**IEEE Access 2023**_<br>
 > [![DOI](https://img.shields.io/badge/DOI-10.1109%2FACCESS.2023.3264582-fcb520?style=flat-square&logo=doi)](https://doi.org/10.1109/ACCESS.2023.3264582) [![arXiv](https://img.shields.io/badge/arXiv-2210.04285-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2210.04285) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/samra-irshad/3d-boundary-constrained-networks/)<br>
 > <img src="asset/access.svg" width="1000">
+
+> **Large-Kernel Attention for 3D Medical Image Segmentation**<br>
+> Hao Li, Yang Nan, Javier Del Ser, Guang Yang<br>
+> _**Cognitive Computation 2023**_<br>
+> [![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs12559--023--10126--7-fcb520?style=flat-square&logo=doi)](https://doi.org/10.1007/s12559-023-10126-7) [![arXiv](https://img.shields.io/badge/arXiv-2207.11225-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2207.11225)<br>
+> <img src="asset/LKA.svg" width="600">
 
 > **Dynamic Linear Transformer for 3D Biomedical Image Segmentation**<br>
 > Zheyuan Zhang, Ulas Bagci<br>
