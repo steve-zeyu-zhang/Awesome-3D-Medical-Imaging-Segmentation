@@ -39,7 +39,7 @@
 > **Multi-scale Hierarchical Vision Transformer with Cascaded Attention Decoding for Medical Image Segmentation**<br>
 > Md Mostafijur Rahman, Radu Marculescu<br>
 > _**MIDL 2023**_<br>
-> [![Paper](https://img.shields.io/badge/Paper-MIDL%202023-8A2BE2?style=flat-square&logoColor=fcb520)](https://2023.midl.io/papers/p165) [![arXiv](https://img.shields.io/badge/arXiv-2303.16892-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2303.16892) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/SLDGroup/MERIT/)<br>
+> [![Paper](https://img.shields.io/badge/Paper-MIDL%202023-8A2BE2?style=flat-square&logoColor=fcb520)](https://2023.midl.io/papers/p165) [![arXiv](https://img.shields.io/badge/arXiv-2303.16892-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2303.16892) [![OpenReview](https://img.shields.io/badge/OpenReview-8c1b13?style=flat-square)](https://openreview.net/forum?id=u0MHV19E2n) [![GitHub](https://img.shields.io/badge/GitHub-Code-1f883d?style=flat-square&logo=github)](https://github.com/SLDGroup/MERIT/)<br>
 > <img src="asset/MERIT.svg" width="600">
 
 > **Dynamic Linear Transformer for 3D Biomedical Image Segmentation**<br>
